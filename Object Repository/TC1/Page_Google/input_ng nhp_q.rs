@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>5a3632d7-085c-4f22-940c-17b9b5258505</webElementGuid>
+      <webElementGuid>4a3f6018-8cd9-4c8a-a138-881486ba15fc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>gLFyf</value>
-      <webElementGuid>3f9c90c3-36bf-4fa0-81a4-86bd022ab880</webElementGuid>
+      <webElementGuid>2c4648e8-aa01-49d2-8c6c-4a28040a185e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>jsaction</name>
       <type>Main</type>
       <value>paste:puy29d;</value>
-      <webElementGuid>ad7aa075-f0e6-437e-8d9f-968f6693208b</webElementGuid>
+      <webElementGuid>9cafe54f-4df5-48aa-95ef-ed36d30311de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>2048</value>
-      <webElementGuid>9a7e56d6-fa0e-4990-9cba-ea106c8fad0b</webElementGuid>
+      <webElementGuid>b19242b5-d85e-4cee-b017-41360176a3b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>name</name>
       <type>Main</type>
       <value>q</value>
-      <webElementGuid>6ab7cb41-851d-4c7d-b2e0-6d77985bab0a</webElementGuid>
+      <webElementGuid>59ed4ca2-5b48-4f98-a6be-fde832fac3bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>773960b0-511c-447f-b1d8-5964a93b2ce1</webElementGuid>
+      <webElementGuid>0fd2b03e-9f30-44b2-96f3-36c5a57819bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocapitalize</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>511ca847-bc3c-4cfb-bc31-5a3fc5827400</webElementGuid>
+      <webElementGuid>5d851aa7-7d3d-465f-b8b6-bf2b273ac9b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>03a24a99-f7e2-42c4-9847-41aeb28090cd</webElementGuid>
+      <webElementGuid>41d0b015-cb21-4641-b827-eec21c14c93e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>cdcc06b8-5837-4ef5-848b-74fc6c83c472</webElementGuid>
+      <webElementGuid>77052fc9-fe5e-46e0-93f1-7b5563a925d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>role</name>
       <type>Main</type>
       <value>combobox</value>
-      <webElementGuid>7cfec435-c3b7-46d5-9347-9e06a3806837</webElementGuid>
+      <webElementGuid>f6d5e994-6c67-4e53-b90a-a4b56e475b65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>spellcheck</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b180feb6-ac60-405f-b8b9-c3b58964aead</webElementGuid>
+      <webElementGuid>ab5e8cda-8371-48e1-8d2e-3b5e0cdc449e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Tìm kiếm</value>
-      <webElementGuid>c14f838e-1ee9-487d-a87f-ae7672c39493</webElementGuid>
+      <webElementGuid>0c4afa62-8b33-4f6a-80f1-00565f178b21</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -118,15 +118,15 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Tìm kiếm</value>
-      <webElementGuid>2b909249-e865-4729-8fc0-43ca99f4f349</webElementGuid>
+      <webElementGuid>a3ff97e9-1eda-485e-a788-91e8e594ca4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-ved</name>
       <type>Main</type>
-      <value>0ahUKEwiZ5biOqvH9AhXpjFYBHftsCtMQ39UDCAQ</value>
-      <webElementGuid>8fc370a4-4aba-442c-ac0a-758f4c0d19d3</webElementGuid>
+      <value>0ahUKEwjWm-jH0_H9AhUGEYgKHRcACgEQ39UDCAQ</value>
+      <webElementGuid>e23269a8-b454-414b-8d18-3363fa934161</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[1]/body[1]/div[@class=&quot;L3eUgb&quot;]/div[@class=&quot;o3j99 ikrT4e om7nvf&quot;]/form[1]/div[1]/div[@class=&quot;A8SBwf&quot;]/div[@class=&quot;RNNXgb&quot;]/div[@class=&quot;SDkEP&quot;]/div[@class=&quot;a4bIc&quot;]/input[@class=&quot;gLFyf&quot;]</value>
-      <webElementGuid>34a21730-4243-4ff2-aa77-132a0ac71bbc</webElementGuid>
+      <webElementGuid>09a9d75e-7bcf-4065-adcc-d7c64e4c88d4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -142,7 +142,39 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@name='q']</value>
-      <webElementGuid>768250a3-c7d8-4f1c-9c52-1dda8ddd7231</webElementGuid>
+      <webElementGuid>881159ca-16ed-4d7c-8e8e-ec336cd932c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đăng nhập'])[1]/following::input[1]</value>
+      <webElementGuid>720c4000-4b09-4176-a437-b84baf02e9fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hình ảnh'])[1]/following::input[1]</value>
+      <webElementGuid>6ce1f336-905e-4220-82a8-2cb6dc93544e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xoá'])[1]/preceding::input[1]</value>
+      <webElementGuid>41b179c6-711c-451b-9bb5-70f4246a1401</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xoá'])[2]/preceding::input[1]</value>
+      <webElementGuid>4286a9ba-3a45-4815-af86-90b781aaa9ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,7 +182,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>144e7797-6f7f-46b6-b970-a68e60a44ab6</webElementGuid>
+      <webElementGuid>b4eba245-ef21-4014-916c-52dec25d2267</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -158,6 +190,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@name = 'q' and @type = 'text' and @title = 'Tìm kiếm']</value>
-      <webElementGuid>acb13be5-2aa3-4495-924a-ab815306d177</webElementGuid>
+      <webElementGuid>c5b673e9-52f5-45da-910c-5e9e7c28b1fc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
