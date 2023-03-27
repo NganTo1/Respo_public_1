@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "839B5B3CB6492F257BCD90B1275C22FC",
+  "keywordClasses": [
+    {
+      "name": "package1.class1",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
